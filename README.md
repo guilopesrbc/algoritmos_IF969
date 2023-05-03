@@ -13,5 +13,5 @@ Listas e assuntos correspondentes:
 - Lista 3 Tabela Hash
 - Lista 4 Sort
 - Lista 5 Grafos (Busca em largura e em profundidade)
-- Lista 6 Grafos menor caminho (Dijkstra)
+- Lista 6 Grafos menor caminho (Dijkstra): https://github.com/guilopesrbc/Dijkstra_algorithm/tree/main
 - Lista 7 Backtracking e programação dinâmica
